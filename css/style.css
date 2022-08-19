@@ -817,6 +817,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .project-content .col-half .project {
   height: 650px;
+  border-radius: 0.7rem;
 }
 .project-content .col-half .project-grid {
   height: 390px;
